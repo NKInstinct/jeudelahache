@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: http://jeudelahache.netlify.app
 languageCode: en-us
 title: Jeu de la Hache
 theme: hugo-lithium
