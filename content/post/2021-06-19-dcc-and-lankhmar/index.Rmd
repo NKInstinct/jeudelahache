@@ -1,0 +1,208 @@
+---
+title: Building a House Game - DCC and Lankhmar
+draft: true
+author: Andrew Wight
+date: '2021-06-27'
+slug: dcc-and-lankhmar
+categories:
+  - General
+tags:
+  - HouseGame
+  - IntroToDCC
+  - Characters
+---
+
+# What's a Lankhmar?
+
+DCC Lankhmar is a boxed set of DCC rules and adventures set in the world of
+Nehwon, from Fritz Lieber's Fafhard and the Grey Mouser stories ^[Fafhard and
+the Grey Mouser are mainstays of Appendix N fantasy, and although the books are
+old, I've never had trouble finding them in dedicated bookstores or larger
+libraries if you want to check them out!]. Lankhmar, the largest city in Nehwon,
+is a foetid pit of skulduggery and an excellent location for the kinds of
+morally grey stories DCC likes to tell. As interesting as the setting is,
+however, it's not what I'm looking for in a House Game---not that I don't like
+Lankhmar, I'm just looking for something a little more generic so that I can
+more readily adapt a given game to the players.
+
+Rules-wise, DCC Lankhmar introduces a couple of very interesting new mechanics
+to a DCC game. Goodman Games has said that there will never be a "2nd edition"
+of DCC that invalidates the previous editions, but the general sentiment around
+Lankhmar is that the new rules here are the next closest thing. There are three
+rules from Lankhmar that I will be lifting into my House Game version of DCC, as
+detailed below.
+
+## No Funnel
+
+Adventurers in Lankhmar are already heroes, and so newly made characters start
+at level 1 with a class already, and a couple changes to how stats are rolled to
+"simulate" the attrition of bad characters in the funnel. As fun as a level 0
+funnel is to run, it's a bit more work to set up for each new group and in my
+experience, makes selling the idea of DCC in general a bit more difficult, so
+I'm going with the Lankhmar version of character creation.
+
+## Benesons and Dooms
+
+Lankhmar characters each get a unique beneson (a random special power based on
+where they are from) and doom (similar, but a drawback), and then an option to
+buy a second one by spending luck based on how good it is. This has been very
+well-received in my group, and helps to bring back a little bit of the "build a
+character concept" feeling that people used to D&D miss when they come to DCC,
+without pitching the game into build-land.
+
+## Fleeting Luck
+
+In addition to their Luck stat, which works as normal, Lankhmar heroes have a
+Fleeting Luck resource that lets them be a little faster and looser with
+spending luck to improve results in their favour. My games are all about finding
+ways to encourage players to take creative control of the narrative, so an extra
+way for them to make a situation go in a way they are excited about is good in
+my books.
+
+# Tweaks to base DCC
+
+Having taken those three rules from Lankhmar, I'm going to also make a couple of
+changes to the base DCC classes to better fit my vision for a House Game. In
+particular, I'm going to remove the race-as-class element of the DCC classes by
+re-flavouring them into more generic character archetypes. Race-as-class helps
+to anchor DCC in Appendix N-style fantasy, but it isn't what I'm going for with
+my game.
+
+## Dwarf becomes Marauder
+
+The DCC Dwarf is basically a Warrior with some slightly tuned-down abilities
+(fewer HP, critical tables don't go as high) in exchange for a unique
+shield-bash attack and a few dwarf-y abilities. To me, this conjures up an image
+of a somewhat gruff highwayman-type character, specializing sword-and-board
+fighting and obtaining money. The specific reflavourings and changes I will make
+are:
+
+__Infravision__ becomes __Night-Eye__: _Your years of nighttime raids and life
+in the wild have left you accustomed to operating in the dark. You can "see" in
+extremely low-light environments out to 60', though you can't make out fine
+details of things you are seeing._
+
+__Slow__ gets removed. ^[I'm not a big fan of characters having different
+movement speeds. The only time it ever becomes relevant is when a character
+can't quite reach a foe, which is less fun and interesting than you might
+think.]
+
+__Underground Training__ becomes __Knave-sense__: _You've seen every dirty trick
+in the book and know how to avoid them. Add your class level to any checks to
+detect traps or tricks in your surrounding environment. Additionally, you have
+an excellent sense of where loot might be found, and can sense the direction of
+large piles of gold and gems within 100'. Studying a mark or a location for a
+moment can let you detect even a single coin._
+
+## Elf becomes Spellsword
+
+The DCC Elf is already a cross between a Wizard and a Warrior, so most class
+features only need a slight tweak:
+
+__Magic__: _The spellsword must perfect both martial and magical training; the
+indwelling of these two opposed forces cause a number of strange effects to
+manifest in their being._
+
+- The close proximity of magic and metal in a spellsword's life sets up an
+antipathic effect, where prolonged contact with iron and other base metals
+causes a painful burning sensation. The Spellsword cannot wear armour or wield
+weapons made of metals except for mithril. Because of this, spellswords may
+start the game with a mithril weapon and set of armour bought for the same price
+as a normal variant.
+- The spellsword has learned to channel small amounts of arcane power to enhance
+their vigilance. The spellsword can see in the dark out to 60', gains a +4 bonus
+to detect secret doors, and cannot be magically paralyzed or forced to sleep
+- Learning both arms and magic is taxing, and the spellsword enlists help
+whenever possible. They receive _patron bond_ and _invoke patron_ spells at 1st
+level automatically.
+- Finally, the spellsword's magical training tends to focus more on mastering a
+single "signature" spell than the more well-rounded Wizard. The spellsword may
+choose to apply their luck bonus at 1st level to a single spell's spellcheck.
+This bonus does not change, even if the spellsword's luck modifier changes
+later.
+
+## Halfling becomes Noble
+
+This might be the biggest stretch of the three, but since the halfling is
+largely about luck and sharing luck around the team, the class speaks to me of a
+team coordinator. Most of the rules are unchanged, just the reasons behind them
+become a bit different:
+
+__Two-Weapon Fighting__: _You are trained in the art of fencing, and can fight
+comfortably with a weapon in either hand. This is fashionably a rapier and main
+gauche, but you are not limited to this selection._
+
+__Small Size__ is removed.
+
+__Slow__ is removed.
+
+__Infravision__ is removed.
+
+__Stealth__: _A combination of practice at intrigue and a keen desire to save
+your own skin have made you particularly good at vanishing when needed._
+
+__Good Luck Charm__ becomes __Blue-Blooded__: _Fortune has always smiled on your
+family, and luck seems always on your side. This can even extend to your
+comrades, who can benefit from your luck if you are able to see them and give a
+bit of encouragement, insight, or warning._
+
+## What about races
+
+Now that we've removed race-as-class, we can turn to Benesons and Dooms to put
+races back in the game. Race as a concept in RPGs is problematic; the
+better word would probably be species, but that gives a more modern/sci-fi vibe
+so feels out of place in a fantasy game. Lankhmar avoids this problem by only
+having humans, and then providing different backgrounds through the different
+benesons that they can possess. 
+
+Our game will do something similar: the Lankhmar-specific names of the
+backgrounds will be changed to something more generic, and will also make space
+for players to play a specific fantasy species if they want but not be limited
+to it. The other nice thing about benesons rather than racial abilities from
+other games is that there are 20 to chose from for each background and you
+choose them randomly. So you don't have the problem where suddenly all elves are
+good at longbows and forestry. Instead, there's a chance that if you are playing
+an elf, they might have notable longbow or forestry skills, but probably not
+both, and they're just as likely to be noteworthy for a specific political
+connection. This goes a long way to make "elf" feel more like a culture and less
+like a stereotype.
+
+### Backgrounds/Heritages
+
+__Lankhmar__ becomes __Metropolis (human)__
+
+__Land of the Eight Cities__ becomes __Woodland Realm (Elf)__
+
+__Cold Waste__ becomes __Mountains (Dwarf)__
+
+__Eastern Lands__ becomes __Estates (Halfling)__
+
+__Mingol Steppes__ becomes __Badlands (Orc)__
+
+Under this new conception of backgrounds, the species indicated in parantheses
+are just there to help ground the choice in common parlance. If a player wants
+to play a "typical" orc, they could pick Badlands and roll, but there's nothing
+saying they couldn't also decide to play a dwarf who was raised in the badlands
+and who learned to ride a mule to great effect.
+
+## Avoiding non-heroes
+
+The final new rule I'm going to add to character creation is a reroll qualifier
+like what was present in 3rd edition D&D. Players will roll their stats as
+normal for a Lankhmar character, and then when they are done, if the sum of
+their modifiers is zero or less, they may erase all six of their attributes and
+roll them again. While playing a character with terrible stats could be a fun
+challenge for some players (and indeed, the choice to reroll is always a
+choice), this rule provides an unbiased way to rescue a player from a character
+they aren't ever going to be excited about.
+
+# Conclusion
+
+Combining in these new rules introduced in Lankhmar helps to broaden the
+character choices made a bit during character creation, which should help
+newcomers to DCC feel a bit more in control of what their experience will be
+like. This also has the benefit of addressing race/heritage in fantasy in a way
+that avoids blanket stereotypes (no more "All orcs are strong and dumb, all
+gnomes learn to speak with animals") but also avoids going too far the other way
+and pretending that all heritages are identical.
+

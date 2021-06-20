@@ -1,54 +1,200 @@
 ---
-title: Understanding DCC from a D&D background
+title: Building a House Game - Why DCC?
 draft: true
 author: Andrew Wight
-date: '2021-02-04'
+date: '2021-06-20'
 slug: understanding-dcc
 categories: General
 tags:
-  - General
-  - DCC
+  - HouseGame
+  - IntroToDCC
 ---
 
 # Welcome!
 
-This is the first post on _Jeu de la Hache_, a new blog I'm writing to record a
-bunch of thoughts and experiences I'm having running my first proper game of
-Dungeon Crawl Classics, an old-style dungeon crawing RPG by Goodman Games. I've
-been running RPGs for 20 years now, but somehow have never had much opportunity
-to dive into DCC outside of a few one-shots at local game stores. Recently,
-however, I convinced my Dungeons & Dragons 5e group to try DCC, and so we're
-diving in head first (both into the game and into the blog). For this inaugural
-post, I thought I'd write up some of my notes I've given to by D&D players about
-how to approach DCC if all you've ever played is 5th edition Dungeons & Dragons.
-In a follow-up post, I'll get into _why_ I'm keen to run this group of people
-through a small DCC campaign, and why I think dipping your toes into DCC could
-be good for your own RPGs as well.
+Recently, I've been running a game of Dungeon Crawl Classics (DCC) ^[DCC is
+published by Goodman Games, and has a free quickstart ruleset available on their
+website
+[here](https://goodman-games.com/store/wp-content/uploads/sites/10/2020/09/DCC_QSR_Free2.pdf).
+Note that the PDF says $5 on it but it's the free PDF from their page, not a
+pirated copy!] for my regular RPG group, and I've been having a blast. Not
+surprisingly, this enthusiasm has come with a desire to do a bit of _tweaking_
+to the game, making it into what I call a "House Game"---that is, a set of rules
+tailored to exactly how you like to run an RPG. I believe that most people who
+run RPGs ^[In DCC they are called Judges so I'm going to go with that terminology
+from here out] have this to some degree. Sometimes, making a House Game involves
+making a whole new RPG, but more often it's just a few tweaks and houserules to
+a beloved base system to make it your own.
 
-Before we get into the article, however, I just wanted to touch on what you can
-expect from this blog if you want to stick around. Currently, the plan is to
-write up my campaign prep notes for this DCC game here for everyone to enjoy
-(and to keep me on the prep ball!). You can expect a bit of world-building, a
-bit of monster-making, and a bunch of helpful tables for running a game set in
-the forgotten depths of a fantasy world. Although meant for my own game, I am
-hoping that the materials I create here will be useful for anyone running games
-of DCC, so if that is something you are doing (or thinking of doing), I hope
-you'll stick around and join me on this adventure. Now, on to the article!
+This blog, _Jeu de la Hache_ ^["Axe-play"---a medieval French fighting manual
+about how to use pollaxes and a personal favourite of mine in the HEMA scene], is
+meant to record my process at turning DCC into a House Game for use at my
+tables. I'm mostly writing this for myself, since giving air to a largely
+internal design process has always helped me make better designs. However, I
+also hope that this blog can serve as an introduction to DCC and an invitation
+to other RPG players and designers to give this very excellent RPG a look.
 
-# How to play DCC (if all you know is D&D)
+# Why DCC?
 
-Thanks to an amazing resurgence of RPGs driven by a tremendously successful 5th edition of Dungeons and Dragons (D&D), we're seeing a huge influx of newcomers to the roleplaying hobby. Along with 
+Like virtually every other long-time RPG player out there, I've played _a lot_
+of fantasy dungeon-crawling adventure. In part, because it's what's popular and
+so it's what's easy to build a group around, but in part because it's a fun
+genre that I and many others enjoy. Like its more popular cousin D&D, DCC is a
+game of itinerant adventurers causing trouble, solving said trouble, and busting into
+tombs and making off with the loot therein. This makes it useful as a House
+Game, since it's a popular and well-understood by most RPG players. In fact, the
+core mechanics at play in DCC should be familiar to most:
 
-- understanding dcc from 5e
-    - you already know the rules
-        - describe your characters actions and interactions in the world. When something arises with an uncertain and interesting outcome, roll a d20, add a relevant modifier, and try to beat a target difficulty set by the judge
-        - if you have advantageous situations, add+2 (for small advantages) or roll a bigger die, opposite for disadvantages
-        - literally everything else is specific and explicit and situational, so can be learned or dealt with as it comes up
-    - think about your character rather than your build
-        - having only 7 classes and no feats or subclasses feels very limiting compared to 5e's rich menu of choices
-        - instead of thinking "this character is a warrior", ask "how does this character make their way in the world?"
-        - maybe your character is a tavern brawler who is excellent at fighting with whatever is at hand and always looks for ways to end a fight quick with dirty moves like eye gouges and gut shots
-        - maybe your character is an expert fencer whose signature fighting style is famous for getting multiple foes off balance at once
-        - maybe your character is a brutally strong outlander who can send foes flying with each axe blow
-        - all of the above are "builds" you can make by making a warrior and thinking about what your specific character's mighty deeds look like
-    - dms - get out of balance mindset and into story mindset
+1. The Judge describes a scenario to the player(s).
+2. The player describes how their character(s) act and interact in that
+   scenario.
+3. If their character attempts an action that has an unknown and potentially
+interesting outcome, the Judge will ask for a roll. 
+    a. This is usually a d20 roll.
+    b. Add a relevant ability score modifier, plus other situational bonuses or
+       penalites as applicable.
+    c. Higher rolls are usually better. 
+    d. You succeed if you meet or beat a set difficulty number.
+4. The Judge narrates the outcome of your action (be it something simple like
+"you climb the rope" or more mechanically complex like "you hit the monster;
+roll weapon damage)".
+
+If that sequence of events is familiar to you, you can probably sit down at a
+game of DCC, pick up a character sheet, and jump into the game, with the extra
+rules and changes explained to you as they become relevant.
+
+So, if what I'm looking for in a House Game is a fantasy dungeon-romper, why go
+with DCC in particular? This is a rich RPG space, filled with such behemoths as
+D&D 5e, Pathfinder, and the collected works of the OSR, so what makes DCC stand
+out to me, and why do I think you should take a look at it too? There's a few
+things that I love about DCC, and the best way I know to illustrate them is to
+show how they are similar to and different from these other games. Please note
+that none of the following is meant to be a condemnation of any of these other
+games: I'm a fan of all of them ^[except Pathfinder, which I unfortunately
+haven't had much chance to play, but this is a result of not enough hours in the
+week, not a statement of Pathfinder's quality], and they do what they do well.
+DCC exists in the same neighborhood as these games, so it is useful to
+understand it in relation to them, and in a certain sense I think it is a better
+game for my purposes than any of the others, but that is not to say it's a
+better game _per se_ or that you should feel bad if you like one of these other
+games more.
+
+## The Complex: D&D and Pathfinder
+
+One of the great strengths of D&D 5e and Pathfinder is the mechanical breadth of
+character options. When you make a Fighter, it feels really different from
+making a Wizard or a Rogue. Every level, you get new powers and abilities that
+say "This is my character, this is what they can do, this is what makes them
+unique at the table and the world." To me, a major part of the fun in an RPG
+comes from making meaningful choices, and having the class you pick to play be
+meaningfully distinct from the other classes you could have picked is a major
+example of this. 
+
+Although DCC only has seven classes, they are each designed to play very
+differently from each other, perhaps even moreso than D&D. Warriors aren't just
+"good at fighting;" a DCC Warrior gets an ability called a Mighty Deed of Arms
+that means 1/3 of the time they hit something (at first level), they can do a
+near-supernatural feat of prowess in addition to the attack, from a disarm or
+grapple to a skull-crushing blow that temporarily blinds their opponent or an
+attack that hews their foe in twain and sends their corpse crashing into their
+comrades, knocking them over. All of the DCC classes have something like
+this---a class-specific ability that lets them do something no-one else can.
+
+Similarly, the magic system in DCC is mechanically rich, with each spell feeling
+like a unique piece of magic. Like D&D, a Wizard (or Cleric, though they are a
+bit different) knows a specific number of spells taken from a rich list provided
+by the game rules. However, Wizards are not limited in how many times they may
+attempt a spell. Instead, they roll a spell check (much like how a Warrior must
+roll an attack roll to hit). The effect of the spell check determines not only
+whether the spell succeeds or not, but also the spell's effects, with higher
+rolls giving more powerful versions of the spell.
+
+All this is to say that DCC has a mechanical richness/complexity closer to
+D&D/Pathfinder than it does to the OSR games, which aligns with my and my
+table's desires in an RPG. However, it has a sharp difference between these
+other complex games in terms of the philosophy of character design. DCC leans
+heavily on randomness in its character creation: in fact, in the base rules, you
+"make a character" by rolling up four peasants completely randomly and then
+picking a class for any that survive their first adventure. 
+
+This heavy reliance on randomness means it is almost impossible to have a
+specific "build" for a character. This has been my greatest complaint with D&D
+5e: the combat focus and explosion of character options means there is an
+increasing tendency to make characters completely designed around a specific set
+of rules interactions, which feels like a competition between players trying to
+make characters that are absurdly good at shutting down specific kinds of
+challenges and Judges that need to stay on top of all the rules interactions to
+make appropriate challenges for them. DCC does away with this problem completely
+by having many details of your character left up to chance, and then invites you
+to "quest for it" if you want to make specific changes or gain new powers,
+rather than selecting them from a list at level-up.
+
+## The Simple: OSR
+
+On the other end of the spectrum lie the OSR (Old-School Revival/Renaissance)
+games. These are games that try to get back to the roots of the RPG hobby,
+emulating or re-organizing the original D&D rules as designed by Gygax and
+Arneson. Most of what DCC does differently from these games is already covered
+in the above (i.e. it is more mechanically complex and has more richness in how
+classes and spells differ from each other). Here, I will instead focus on the
+similarities between DCC and the OSR, which helps to enrich the DCC experience
+overall.
+
+The whole motivation behind DCC is to get back to "Appendix N" ^[Appendix N was
+a list of books that inspired Gygax when creating the first D&D, and is looked
+on with some reverence in the OSR community as an excellent resource to get at
+what "D&D-style Fantasy" is all about.] fantasy gaming, and so in that sense,
+DCC _is_ part of the OSR. Its mechanics look quite different from most other
+OSR games, and so people think of it as OSR-adjacent rather than a "true OSR"
+game, but in terms of philosophy, this game is 100% meant to evoke feelings of
+the original RPGs from the 70s. Indeed, DCC's reliance on very weird dice (the
+D7 is a favourite of mine) is an intentional decision to evoke the feeling of
+the first time you picked up a D20 and asked what on earth it was.
+
+A big part of the OSR games is a sort of DIY spirit. Rather than try to have a
+specific rule defined for every situation a character may encouter, OSR games
+empower Judges to make up an on-the-fly ruling based on common sense and table
+buy-in. This "OSR spirit" is alive and well in DCC. I mentioned this briefly
+above, but a major DCC principle is the "quest for it" mentality. If a player
+wants a specific character ability or magic item, they are encouraged to spend
+some time in-game researching and then questing for it. For example, base DCC
+doesn't have a barbarian class, and there are no rules for Warriors gaining
+rage-based combat abilities. If a player wanted to play such a berserker
+character, the DCC solution would be to seek out the lost caste of rage-trance
+warriors buried beneath the Ironfang mountains and convince them to share their
+techniques. In a more general sense, DCC's OSR philosophy strongly encourages
+character development and mechanical advancement to happen at the table, in the
+game, as part of the story.
+
+The other good OSR-like aspect of DCC comes in the combat rules. Specifically,
+most characters (including monsters and NPCs) have _very few_ hitpoints compared
+to D&D 5e. This ensures that combat is fast and brutal, and means that a single
+solid roll from an attacker can drop almost any foe, making fights uncertain and
+tense. DCC has a reputation as a very lethal game, and honestly, this is talked
+up a little bit more than is true; after your peasants become true characters,
+they are hardy enough for a few tumbles in the adventure. However, unlike our
+D&D days, my DCC table has seen a character _near death_ almost every fight,
+meaning fights are not entered lightly and often more memorable when they do
+happen.
+
+# Conclusion
+
+To summarize, I'm focusing my homebrewing efforts on DCC because it is a fantasy
+dungeon crawler that occupies a sweet spot for me in terms of having enough
+mechanical complexity to make character-based choices feel meaningful and
+distinct, without so much that a large part of the game becomes about making
+optimized character builds away from the table. Instead, the focus is on
+developing interesting characters based on their adventures and mishaps at the
+table. It's fun, it's fast, and it's straightforward without being same-y after
+a few levels. Combat is exciting and lethal, magic is chaotic and _magical_, but
+overall the rules are familiar enough that it's a pretty easy pitch to convince
+people who have only ever played a single RPG to learn them.
+
+I focused on _character rules_ in this exploration of DCC, in part because I've
+found that the rules governing characters are the most important for setting the
+tone of a game, and in part because DCC is pretty sparse on rules for
+Judges. This is going to be a major focus for some of the homebrewing that is
+coming in the next few posts: setting up some rule systems to help make other,
+non-character based parts of the game feel more mechanically driven and less
+Judge fiat-based. But first, a look at DCC and DCC Lankhmar, and how merging the
+two will make the basis for this House Game.
