@@ -1,6 +1,6 @@
 ---
 title: Building a House Game - Why DCC?
-draft: true
+draft: false
 author: Andrew Wight
 date: '2021-06-20'
 slug: understanding-dcc
